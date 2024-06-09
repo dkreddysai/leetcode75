@@ -9,3 +9,11 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dkreddysai/leetcode75/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+# Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/dkreddysai/leetcode75/tree/master/0050-powx-n) |
+# Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/dkreddysai/leetcode75/tree/master/0050-powx-n) |
