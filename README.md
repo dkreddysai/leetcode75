@@ -23,3 +23,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dkreddysai/leetcode75/tree/master/0001-two-sum) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/dkreddysai/leetcode75/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/dkreddysai/leetcode75/tree/master/0283-move-zeroes) |
+<!---LeetCode Topics End-->
